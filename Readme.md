@@ -266,7 +266,7 @@ This line chart tracks how **failure rates** change over time for each **risk le
 
 This helps us see whether higher-risk categories are **consistently more likely to fail**, and whether certain periods show spikes for specific risk levels (useful for planning targeted inspections or seasonal campaigns).
 
-### 9. Pass vs fail composition over time
+### 9. Pass v/s fail composition over time
 
 ![Pass vs fail composition over time](images/visualization-9.png)
 
